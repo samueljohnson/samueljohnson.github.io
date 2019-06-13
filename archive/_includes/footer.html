@@ -1,0 +1,37 @@
+<footer class="site-footer">
+
+  <div class="wrap">
+
+    <h2 class="footer-heading">{{ site.name }}</h2>
+
+    <div class="footer-col-1 column">
+      <ul>
+        <li>{{ site.title }}</li>
+        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+	<li>{{ site.organisation }}</li>
+      </ul>
+    </div>
+    <div class="footer-col-2 column">
+    </div>
+    <div class="footer-col-3 column">
+      <p class="text">{{ site.description }}</p>
+    </div>
+
+  </div>
+
+<!-- Following script deep links
+<script>
+$(function() {
+  return $("h2, h3, h4, h5, h6").each(function(i, el) {
+    var $el, icon, id;
+    $el = $(el);
+    id = $el.attr('id');
+    icon = '<i class="fa fa-link"></i>';
+    if (id) {
+      return $el.prepend($("<a />").addClass("header-link").attr("href", "#" + id).html(icon));
+    }
+  });
+});
+</script>
+-->
+</footer>

@@ -1,6 +1,6 @@
 # Site settings
 name: Samuel Johnson
-title: Scientist / Engineer - SD
+title: samueljohnson.io
 # email: my short first name (six letters) at ISRO’s domain (isro [dot] gov [dot] in)
 organisation: Indian Space Research Organisation
 username: samueljohnson
@@ -20,4 +20,13 @@ permalink: /blog/:year/:month/:day/:title/
 gems:
           - jekyll-sitemap
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-hacker
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+github:
+  is_project_page: false
