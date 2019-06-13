@@ -22,5 +22,11 @@ gems:
 
 theme: jekyll-theme-hacker
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
 github:
   is_project_page: false
