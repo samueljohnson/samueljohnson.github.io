@@ -143,6 +143,11 @@ Here is my current list of favorite quotes:
 
 ### Computer Science
 
+> "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult." 
+>
+<p align="right">-- C.A.R. Hoare </p>
+---
+
 > "Computer science is not about machines, in the same way that astronomy is not about telescopes." 
 >
 <p align="right">-- Michael R. Fellows </p>
