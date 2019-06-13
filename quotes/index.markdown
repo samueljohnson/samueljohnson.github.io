@@ -7,6 +7,11 @@ Favorite quotes serve to define a person rather quickly, which helps others who 
 
 Here is my current list of favorite quotes:
 
+> "Perfection is reached, not when there is no longer anything to add, but when there is no longer anything to take away"
+>
+<p align="right">-- Antoine de Saint-Exupery </p>
+---
+
 > "Choose a job you love, and you will never have to work a day in your life."
 >
 <p align="right">-- Confucius </p>
@@ -14,7 +19,7 @@ Here is my current list of favorite quotes:
 
 > “Everybody pities the weak; jealousy you have to earn." 
 >
-<p align="right">-- Arnold Schwarzenegger  </p>
+<p align="right">-- Arnold Schwarzenegger </p>
 ---
 
 > "You might have more talent than me, you might be smarter than me, you might be sexier than me, you might be all of those things you got it on me in nine categories. But if we get on the treadmill together, there's two things: You're getting off first, or I'm going to die." 
@@ -138,6 +143,11 @@ Here is my current list of favorite quotes:
 ---
 
 ### Computer Science
+
+> "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult." 
+>
+<p align="right">-- C.A.R. Hoare </p>
+---
 
 > "Computer science is not about machines, in the same way that astronomy is not about telescopes." 
 >
