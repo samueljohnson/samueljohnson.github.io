@@ -8,5 +8,4 @@ title:  "Home"
 
 * [Favorite Quotes](/quotes)
 
-* [Public Key (prl)](/assets/txt/PRL_Public.asc){:target="_blank"}
-
+<!-- * [Public Key (prl)](/assets/txt/PRL_Public.asc){:target="_blank"} -->
