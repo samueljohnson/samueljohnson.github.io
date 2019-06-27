@@ -11,7 +11,7 @@ Few of my interests includes: Cryptography, IT Security, Penetration Testing, Pr
 
 In my free time, I like to contribute to Wikipedia, solve programming challenges and learn something new.
 
-My [Myers-Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator) is [INTP](http://www.personalitypage.com/INTP.html), same as [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), [Darwin](https://en.wikipedia.org/wiki/Charles_Darwin), [Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) and [others](http://www.celebritytypes.com/intp.php).
+<!-- My [Myers-Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator) is [INTP](http://www.personalitypage.com/INTP.html), same as [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), [Darwin](https://en.wikipedia.org/wiki/Charles_Darwin), [Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) and [others](http://www.celebritytypes.com/intp.php). -->
 
 ## Contact
 
