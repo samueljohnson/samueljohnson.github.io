@@ -17,7 +17,7 @@ In my free time, I like to contribute to Wikipedia, solve programming challenges
 
 Drop me a line at: my short first name (six letters) at ISRO's domain (isro [dot] gov [dot] in).
 
-Download my [public GPG key](/assets/txt/PRL_Public.asc) to encrypt email you send me if you like.
+Download my [public GPG key](/assets/txt/ISRO_Public.asc) to encrypt email you send me if you like.
 
 Or use the form below and I'll get back to you.
 
