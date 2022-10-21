@@ -15,14 +15,16 @@ In my free time, I like to contribute to Wikipedia, solve programming challenges
 
 ## Contact
 
-Drop me a line at: my short first name (six letters) at ISRO's domain (isro [dot] gov [dot] in).
+Drop me a line at: my first name at ISRO's domain.
 
-Use my [public GPG key](/assets/txt/ISRO_Public.asc) to encrypt email you send me, if you like.
+Use my [public GPG key](/assets/txt/ISRO_Public.asc), if needed.
+
+<!--
 
 Or use the form below and I'll get back to you.
 
 ----
-<!--<hr style="border-color:black;">-->
+<!--<hr style="border-color:black;">
 
   <form method="POST" action="http://formspree.io/esamueljohnson@gmail.com">
    <div class="form-group">
@@ -42,3 +44,4 @@ Or use the form below and I'll get back to you.
       
    <button type="submit" class="btn btn-primary">Submit</button>
 
+-->
