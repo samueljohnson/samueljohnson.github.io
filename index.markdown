@@ -6,7 +6,7 @@ title:  "Home"
 Hi there! My name is Samuel Johnson, I’m a Scientist/Engineer working at [Indian Space Research Organisation](http://www.isro.gov.in).
 
 
-<h2> Contact </h2>
+<h2>Contact</h2>
 
 Drop me a line at: my first name at ISRO's domain.
 
