@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-## Contact
-
 Drop me a line at: my first name at ISRO's domain.
 
 Use my [public GPG key](/assets/txt/ISRO_Public.asc), if needed.
